@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/Shambhavi-011/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shambhavi-011/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Shambhavi-011/leetcode/tree/master/0118-pascals-triangle) |
+| [0283-move-zeroes](https://github.com/Shambhavi-011/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shambhavi-011/leetcode/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shambhavi-011/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
