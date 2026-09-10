@@ -30,10 +30,12 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Shambhavi-011/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Shambhavi-011/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shambhavi-011/leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Shambhavi-011/leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
