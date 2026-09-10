@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shambhavi-011/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shambhavi-011/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Shambhavi-011/leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Shambhavi-011/leetcode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Shambhavi-011/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Shambhavi-011/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
